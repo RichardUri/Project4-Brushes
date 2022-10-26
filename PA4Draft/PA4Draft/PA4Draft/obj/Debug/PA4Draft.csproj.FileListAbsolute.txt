@@ -33,3 +33,22 @@ C:\Users\Richard U\Documents\FIU\COP4710 - Advanced Windows Programming\PA4Draft
 C:\Users\Richard U\Documents\FIU\COP4710 - Advanced Windows Programming\PA4Draft\PA4Draft\PA4Draft\obj\Debug\PA4Draft.csproj.SuggestedBindingRedirects.cache
 C:\Users\Richard U\Documents\FIU\COP4710 - Advanced Windows Programming\PA4Draft\PA4Draft\PA4Draft\obj\Debug\PA4Draft.PickTextureBrush.resources
 C:\Users\Richard U\Documents\FIU\COP4710 - Advanced Windows Programming\PA4Draft\PA4Draft\PA4Draft\obj\Debug\PA4Draft.PickHatchBrush.resources
+C:\Users\ruria\Documents\GitHub\Project4-Brushes\PA4Draft\PA4Draft\PA4Draft\bin\Debug\PA4Draft.exe.config
+C:\Users\ruria\Documents\GitHub\Project4-Brushes\PA4Draft\PA4Draft\PA4Draft\bin\Debug\PA4Draft.exe
+C:\Users\ruria\Documents\GitHub\Project4-Brushes\PA4Draft\PA4Draft\PA4Draft\bin\Debug\PA4Draft.pdb
+C:\Users\ruria\Documents\GitHub\Project4-Brushes\PA4Draft\PA4Draft\PA4Draft\obj\Debug\PA4Draft.csproj.AssemblyReference.cache
+C:\Users\ruria\Documents\GitHub\Project4-Brushes\PA4Draft\PA4Draft\PA4Draft\obj\Debug\PA4Draft.csproj.SuggestedBindingRedirects.cache
+C:\Users\ruria\Documents\GitHub\Project4-Brushes\PA4Draft\PA4Draft\PA4Draft\obj\Debug\PA4Draft.AddEllipse.resources
+C:\Users\ruria\Documents\GitHub\Project4-Brushes\PA4Draft\PA4Draft\PA4Draft\obj\Debug\PA4Draft.AddRectangle.resources
+C:\Users\ruria\Documents\GitHub\Project4-Brushes\PA4Draft\PA4Draft\PA4Draft\obj\Debug\PA4Draft.ChoosePen.resources
+C:\Users\ruria\Documents\GitHub\Project4-Brushes\PA4Draft\PA4Draft\PA4Draft\obj\Debug\PA4Draft.MainForm.resources
+C:\Users\ruria\Documents\GitHub\Project4-Brushes\PA4Draft\PA4Draft\PA4Draft\obj\Debug\PA4Draft.PickHatchBrush.resources
+C:\Users\ruria\Documents\GitHub\Project4-Brushes\PA4Draft\PA4Draft\PA4Draft\obj\Debug\PA4Draft.PickSolidBrush.resources
+C:\Users\ruria\Documents\GitHub\Project4-Brushes\PA4Draft\PA4Draft\PA4Draft\obj\Debug\PA4Draft.PickTextureBrush.resources
+C:\Users\ruria\Documents\GitHub\Project4-Brushes\PA4Draft\PA4Draft\PA4Draft\obj\Debug\PA4Draft.Preview.resources
+C:\Users\ruria\Documents\GitHub\Project4-Brushes\PA4Draft\PA4Draft\PA4Draft\obj\Debug\PA4Draft.Properties.Resources.resources
+C:\Users\ruria\Documents\GitHub\Project4-Brushes\PA4Draft\PA4Draft\PA4Draft\obj\Debug\PA4Draft.Signature.resources
+C:\Users\ruria\Documents\GitHub\Project4-Brushes\PA4Draft\PA4Draft\PA4Draft\obj\Debug\PA4Draft.csproj.GenerateResource.cache
+C:\Users\ruria\Documents\GitHub\Project4-Brushes\PA4Draft\PA4Draft\PA4Draft\obj\Debug\PA4Draft.csproj.CoreCompileInputs.cache
+C:\Users\ruria\Documents\GitHub\Project4-Brushes\PA4Draft\PA4Draft\PA4Draft\obj\Debug\PA4Draft.exe
+C:\Users\ruria\Documents\GitHub\Project4-Brushes\PA4Draft\PA4Draft\PA4Draft\obj\Debug\PA4Draft.pdb

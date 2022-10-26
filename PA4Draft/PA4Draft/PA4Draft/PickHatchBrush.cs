@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.Drawing.Drawing2D;
 using System.IO.Ports;
 using System.Linq;
 using System.Text;
@@ -14,7 +15,6 @@ namespace PA4Draft
 
     //LIST BOX IS TO SELECT DIFFERENT HATCH BRUSHES FROM A LIST
     //SO CREATE A HATCHBRUSH STYLE VARIABLE IN THE DESIGNER
-    //COMBINE THE COLORS OF THE FOREGROUND AND BACKGROUND INTO ONE VARIABLE
     public partial class PickHatchBrush : Form
     {
         public PickHatchBrush()
@@ -22,6 +22,12 @@ namespace PA4Draft
             InitializeComponent();
             foregroundColor = SystemColors.ButtonFace;
             backgroundColor = SystemColors.ButtonFace;
+
+            foreach (string styleName in Enum.GetNames(typeof(HatchStyle)))
+            {
+                hatchStyleList.Items.Add(styleName);
+                
+            }
         }
 
         private void foregroundButton_Click(object sender, EventArgs e)
@@ -40,6 +46,12 @@ namespace PA4Draft
                 backgroundColor = colorDialog2.Color;
             backgroundColor = Color.FromArgb(/*(byte)opacity.Value,*/ backgroundColor.R, backgroundColor.G, backgroundColor.B);
             backgroundButton.BackColor = backgroundColor;
+        }
+
+        private void hatchStyleList_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            hatchStyleText = hatchStyleList.GetItemText(hatchStyleList.SelectedIndex);
+            hs = (HatchStyle)Enum.Parse(typeof(HatchStyle), hatchStyleText, true);
         }
     }
 }

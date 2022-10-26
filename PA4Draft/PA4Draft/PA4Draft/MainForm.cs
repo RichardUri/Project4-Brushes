@@ -182,7 +182,7 @@ namespace PA4Draft
             if (d != DialogResult.OK)
                 return;
             //Change foregroundcolor to hatch Color later
-            shapes[shapeList.SelectedIndex].fillBrush = new HatchBrush(HatchStyle.DarkVertical, p.foregroundColor, p.backgroundColor);
+            shapes[shapeList.SelectedIndex].fillBrush = new HatchBrush(p.hs, p.foregroundColor, p.backgroundColor);
 
             updateTileDesign();
             updateShapeList(shapeList.SelectedIndex);
